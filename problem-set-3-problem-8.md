@@ -16,7 +16,7 @@ A retail company must file a monthly sales tax report listing the total sales fo
 
 - The amount of county sales tax
 - The amount of state sales tax
-- The total sales tax(county plus state)
+- The total sales tax (county plus state)
 
 Create a function that contains your code. Name it whatever you want to.
 

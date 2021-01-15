@@ -12,7 +12,7 @@ Be sure to include the following in your solution:
 
 ## Problem Statement
 
-Write a program that prompts a user to input a number from 1 tp 10. The program should display the Roman numeral version of that number. If the number is outside the range of numbers (1 through 10), the program should display an error message. Place your code in a function named **roman_numeral()**
+Write a program that prompts a user to input a number from 1 to 10. The program should display the Roman numeral version of that number. If the number is outside the range of numbers (1 through 10), the program should display an error message. Place your code in a function named **roman_numeral()**
 
 The following table shows the Roman numerals for the numbers 1 through 10:
 
@@ -33,4 +33,4 @@ The following table shows the Roman numerals for the numbers 1 through 10:
 
 - Use an if elif else to check the number entered by the user to make sure it is within the expected range of numbers (1-10).
 - For checking to see which Roman Numeral it is, you will have one long series of if elif's followed by an else.
-- In each of the elif's print out the Roman Numeral.
+- In each of the elifs print out the Roman Numeral.
