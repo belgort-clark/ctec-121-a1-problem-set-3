@@ -18,8 +18,8 @@ READ ALL OF THE INSTRUCTIONS BEFORE YOU START WORKING ON THE CODE
 def main_program():
     print("Change Counter')
     print()
-    print("Please enter the count of each coin type.")  # missing )
-    quarters = eval(input("Quarters: "))  # missing "
+    print("Please enter the count of each coin type.")
+    quarters = eval(input("Quarters: "))
     dimes = eval(input("Dimes: "))
     nickels = eval(input("Nickels: "))
     pennies = eval(input("Pennies: "))
