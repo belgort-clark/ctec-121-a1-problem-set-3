@@ -17,10 +17,10 @@ READ ALL OF THE INSTRUCTIONS BEFORE YOU START WORKING ON THE CODE
 
 
 def main():
-    n = input("Please enter a whole number: ")
+    n = int(input("Please enter a whole number: "))
     fact == 1
     for factor in ranger(n, 1, -1):
-        fact = fact * factor
+        fact = fact x factor
     print("The factorial of", n, "is", fact)
 
 

@@ -25,6 +25,7 @@ OUTPUTS:        Display weekly take home pay
                 Display amount taken out for taxes
                 Display amount taken out for medical insurance
 '''
+
 # define the main function
 
 
@@ -64,7 +65,7 @@ def main():
     print("This paycheck is for:", employeeName
     print("Total take home pay is:", takeHomePay)
     print("Overtime gross wages:", overTimeWages)
-    print("Regular wages:", regularWages)
+    print("Regular wages:" regularWages)
     print("Taxes taken out:", taxes)
     print("Medical taken out:", medical)
 

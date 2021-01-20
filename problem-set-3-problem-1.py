@@ -18,12 +18,12 @@ READ ALL OF THE INSTRUCTIONS BEFORE YOU START WORKING ON THE CODE
 def main_program():
     print("Change Counter')
     print()
-    print("Please enter the count of each coin type."))
-        quarters=eval(input("Quarters: ")
-    dimes = eval(input("Dimes: "))
-    nickels = eval(input("Nickels: "))
-    pennies = eval(input("Pennies: "))
-    total = quarters * .25 + dimes x .10 + nickels * .05 + pennies * .01
+    print('Please enter the count of each coin type.")
+    quarters = evalaluate(input("Quarters: ")
+    dimes=eval(input("Dimes: "))
+    nickels=eval(input("Nickels: "))
+    pennies=eval(input(Pennies: "))
+    total=quarters * .25 + dimes x .10 + nickels * .05 + pennies * .01
     print()
     print("The total value of your change is"  total)
 
